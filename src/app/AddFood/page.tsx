@@ -186,7 +186,7 @@ const page = () => {
                     ) : (
                       <select
                         className="inline-block w-full py-2 rounded-md dark:text-gray-400 bg-gray-100 dark:bg-gray-900 border-transparent dark:border-gray-700 dark:hover:border-gray-700 dark:hover:focus:border-gray-700 focus:border-gray-300  hover:border-gray-300 hover:focus:border-gray-300 focus:ring-0 text-sm mt-1"
-                        placeholder="Please Select Food type"
+                        
                       ></select>
                     )}
                   </>
@@ -235,7 +235,7 @@ const page = () => {
                     ) : (
                       <select
                         className="inline-block w-full py-2 rounded-md dark:text-gray-400 bg-gray-100 dark:bg-gray-900 border-transparent dark:border-gray-700 dark:hover:border-gray-700 dark:hover:focus:border-gray-700 focus:border-gray-300  hover:border-gray-300 hover:focus:border-gray-300 focus:ring-0 text-sm mt-1"
-                        placeholder="Please Select Food type"
+                       
                       ></select>
                     )}
                   </>
@@ -284,7 +284,6 @@ const page = () => {
                     ) : (
                       <select
                         className="inline-block w-full py-2 rounded-md dark:text-gray-400 bg-gray-100 dark:bg-gray-900 border-transparent dark:border-gray-700 dark:hover:border-gray-700 dark:hover:focus:border-gray-700 focus:border-gray-300  hover:border-gray-300 hover:focus:border-gray-300 focus:ring-0 text-sm mt-1"
-                        placeholder="Please Select Food type"
                       ></select>
                     )}
                   </>
