@@ -1,6 +1,6 @@
-# Zomato Clone Admin Dashboard
+# FeastKart Admin Dashboard (https://feastkart-admin.vercel.app/)
 
-Welcome to the Zomato Clone Admin Dashboard repository. This dashboard empowers restaurant owners to manage their profiles, food items, and orders efficiently.
+Welcome to the FeastKart Clone Admin Dashboard repository. This dashboard empowers restaurant owners to manage their profiles, food items, and orders efficiently.
 
 ## Features
 
@@ -36,7 +36,7 @@ Welcome to the Zomato Clone Admin Dashboard repository. This dashboard empowers 
  
 ## Client Repository
 
-For the client-side of this project, please visit the [Zomato Clone Client Repository](https://github.com/Jayrajrodage/Zomato-clone).
+For the client-side of this project, please visit the [Zomato Clone Client Repository](https://feastkart.vercel.app/).
 
 ## Usage
 
@@ -57,5 +57,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/Jayrajrodage/zomato-admin/issues).
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/Subrat-Prakash/FeastKart-admin/issues).
 
